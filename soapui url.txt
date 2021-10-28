@@ -1,2 +1,3 @@
 https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl
 https://coderanch.com/t/695795/java/WSDL-testing
+https://ws.footballpool.dataaccess.eu/info.wso?WSDL
